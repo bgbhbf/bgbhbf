@@ -1,9 +1,9 @@
 <div>
   
   <!--Header-->
-  ![header1](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Perseverance)
-  ![header2](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=moves)
-  ![header3](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=mountains%20🧐)
+  ![header1](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Perseverance)
+  ![header2](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=moves)
+  ![header3](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=6100&section=header&text=mountains%20🧐)
 
   
 </div>
