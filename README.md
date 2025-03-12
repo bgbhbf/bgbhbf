@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Perseverance%20moves%20mountains%20%F0%9F%A4%97&fontsize=20)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Perseverance%20moves%20mountains%20%F0%9F%A4%97&fontsize=12)
   
 </div>
 
