@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Perseverance%20moves%20mountains%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Perseverance%20moves%20mountains%20%F0%9F%A4%97)
   
 </div>
 
@@ -17,9 +17,9 @@
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <br/>
   
   ### Library
