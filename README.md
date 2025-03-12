@@ -1,7 +1,10 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Perseverance%20moves%0Amountains%20🧐)
+  ![header1](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Perseverance)
+  ![header2](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=moves)
+  ![header3](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=mountains%20🧐)
+
   
 </div>
 
