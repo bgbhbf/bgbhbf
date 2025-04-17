@@ -13,7 +13,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a modem SW Engineer from South Korea.<br/>
-  #### :fire: I aim to become a AI Engineer.<br/>
+  #### :fire: I aim to become an AI Engineer.<br/>
   <br/>
   <br/>
   
